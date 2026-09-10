@@ -1,5 +1,6 @@
 * [🌟 体系总览 (白皮书)](README.md)
 * [🤝 共创主理人章程](FELLOWSHIP.md)
+* [❓ 常见问题与解答 (FAQ)](FAQ.md)
 * [🛠️ 贡献指南](CONTRIBUTING.md)
 
 * **核心原能力导读**
